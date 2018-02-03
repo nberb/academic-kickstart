@@ -26,18 +26,18 @@ weight = 5
 
 [[education.courses]]
   course = "MSc in Robotics, Cognition, Intelligence"
-  institution = "Technical University of Munich"
-  year = 2015-present
+  institution = "Technical University of Munich (2015-present)"
+  
 
 [[education.courses]]
   course = "MSc in Philosophy of Science and Technology"
-  institution = "Technical University of Munich"
-  year = 2015-present
+  institution = "Technical University of Munich (2015-present)"
+  
 
 [[education.courses]]
   course = "MSc in Neuroengineering"
-  institution = "Technical University of Munich"
-  year = 2016-present
+  institution = "Technical University of Munich (2016-present)"
+  
 
 [[education.courses]]
   course = "BSc in Electrical Engineering and Information Technology"
